@@ -71,6 +71,7 @@ ___
 [Café na Bancada](http://cafe-na-bancada.com.br)  
 [Canal Ciência](www.canalciencia.ibict.br)  
 [Canal Metrologia](https://canalmetrologia.com.br/)  
+[Casa dos Morcegos](https://casadosmorcegos.wordpress.com)
 [Ceticismo](http://ceticismo.net)  
 [Ciência Hoje](http://www.cienciahoje.org.br)  
 [Ciência Hoje Crianças](http://www.chc.org.br)  
